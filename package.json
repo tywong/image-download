@@ -1,0 +1,11 @@
+{
+  "name": "image-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mole Wong <tszyeung@gmail.com>",
+  "license": "ISC"
+}

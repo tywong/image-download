@@ -1,0 +1,7 @@
+*.svg
+
+node_modules
+
+./json/
+
+./list.json
